@@ -1,4 +1,4 @@
-# Currency Converter 💱
+# Currency Converter 
 
 A simple Currency Converter web application built using HTML, CSS, and JavaScript.
 
